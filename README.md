@@ -4,3 +4,10 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
 This hangman repo also contain folder practical for milestone practicals.
+
+Added milestone_3 practicals
+
+# Check if letter is in word
+used random module
+
+separated different modules using function
